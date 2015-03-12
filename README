@@ -1,0 +1,9 @@
+README for Bike Computer project
+Author: Matt McFarland and Josh Lang
+
+This Bike Computer project was created as final project
+for a digital circuits design course during the summer of 
+2014 at the Thayer School of Engineering at Dartmouth College.
+
+The bike computer was constructed out of a Xilinx FPGA which was
+configured using VHDL. 
